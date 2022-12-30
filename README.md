@@ -1,6 +1,6 @@
 # flutter_rive_app
 
-A new Flutter project.
+![screenshots](./screenshots/screenshot1.png)
 
 ## Getting Started
 
